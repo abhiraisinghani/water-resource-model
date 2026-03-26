@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <style>
+  .iframe-wrapper {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 ratio */
+  }
+
+  .iframe-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+</style>
+</head>
+<body>
+
+<iframe width="1300" height="1600" frameborder="0" scrolling="no" src="https://iith-my.sharepoint.com/personal/gs24mtech11018_iith_ac_in/_layouts/15/Doc.aspx?sourcedoc={80b8e35a-487a-4a2f-b24b-4189ccfbc687}&action=embedview&wdAllowInteractivity=False&AllowTyping=True&Item='Dash'!A1%3AO65&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
+</body>
+</html>
